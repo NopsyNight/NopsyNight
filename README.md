@@ -6,7 +6,7 @@
 - 💭 Want to talk with me? Discord: **nopsyz**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src='https://github.com/user-attachments/assets/d71a13a7-1d1f-4bc0-b165-b669b5c7519e' alt="JS" width="80" height="60">
+<img src='https://github.com/user-attachments/assets/d71a13a7-1d1f-4bc0-b165-b669b5c7519e' alt="JS" width="90" height="60">
 <img src='https://github.com/user-attachments/assets/376a70fb-1e9b-4997-a566-4937dabe54de' alt="Phytinho"width="80" height="60">
 
 <h3 align="left"> My Translates:</h3>
