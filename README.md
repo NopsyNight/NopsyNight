@@ -1,6 +1,5 @@
-- 👋 Hi, I’m nopsyz
-- I'm currectly translate mods of Stardew Valley and Programing in Phyton, and learning JavaScript
-<!---
-NopsyNight/NopsyNight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align='center'> Hello I'm Nopsy👋</h1>
+<h3 align='center'> A translator and Game Programmer</h3>
+<h4 align= 'center'>--------------------------------------------------------------------------------------------------------</h4><br>
+- I Translate Stardew Valley Mods<br>
+- I Programm in JavaScript And Python
