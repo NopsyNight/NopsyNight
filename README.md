@@ -1,7 +1,7 @@
 <h1 align='center'> Hello, I'm Nopsy👋</h1>
 <h3 align='center'> A Brazilian translator and Game Programmer</h3>
 
-- 👻 I'm 18 old <br>
+- 👻 I'm 19 old <br>
 - 🤠 I Like Play Games and developer <br>
 - 💭 Want to talk with me? Discord: **nopsyz**
 
